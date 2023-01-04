@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/stackzeal-assignment/static/css/main.6f97ad29.css",
+    "main.js": "/stackzeal-assignment/static/js/main.cb703027.js",
+    "static/media/IMDR.png": "/stackzeal-assignment/static/media/IMDR.9718cd9aa272e4d00f1c.png",
+    "index.html": "/stackzeal-assignment/index.html",
+    "main.6f97ad29.css.map": "/stackzeal-assignment/static/css/main.6f97ad29.css.map",
+    "main.cb703027.js.map": "/stackzeal-assignment/static/js/main.cb703027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f97ad29.css",
+    "static/js/main.cb703027.js"
+  ]
+}
