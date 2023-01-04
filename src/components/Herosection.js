@@ -10,7 +10,7 @@ const Herosection = () => {
         <div className="-mx-4 flex flex-wrap justify-between">
             <div className="order-2 md:order-1 w-full px-4 lg:w-5/12 mt-5 md:mt-1">
                 <div className=" hero-content">
-                    <h1 className="mb-3 text-4xl font-bold leading-snug text-dark sm:text-[42px] lg:text-[40px] xl:text-[42px]">
+                    <h1 className="mb-3 text-4xl font-bold leading-snug text-dark sm:text-[27px] lg:text-[35px] xl:text-[40px]">
                         Single dog<br/>
                         Litter / puppy<br/>
                         Change Owner<br/>
